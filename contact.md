@@ -4,6 +4,7 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
-
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+U Can contact me via these:
+- weibo: 请强刷五次
+- Twitter: @kaycode
+- Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
