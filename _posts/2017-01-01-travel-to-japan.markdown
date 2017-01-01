@@ -141,4 +141,4 @@ categories: japan
 
 # 最后放几张图
 
-见另一个[文章]({{ site.url }/japan/2017/01/01/photos-in-japan.html)
+见另一个[文章]({{ site.url }}/japan/2017/01/01/photos-in-japan.html)
