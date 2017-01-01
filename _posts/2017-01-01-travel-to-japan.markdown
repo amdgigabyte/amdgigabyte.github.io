@@ -78,7 +78,7 @@ categories: japan
 
 # 旅行记录
 
-<embed src='http://player.youku.com/player.php/sid/XMTg5Mzg5Nzg5Mg==/v.swf' allowFullScreen='true' quality='high' width='100%' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+<embed src='http://player.youku.com/player.php/sid/XMTg5Mzg5Nzg5Mg==/v.swf' allowFullScreen='true' quality='high' width='100%' height="500" align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
 
 
 # 感受
