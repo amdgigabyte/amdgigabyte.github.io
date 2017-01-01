@@ -5,7 +5,7 @@ date:   2017-01-01 11:55:48 +0800
 categories: japan
 ---
 
-# 旅行记录
+# 15天的旅行记录
 
 <iframe width="100%" height="500" src="http://player.youku.com/embed/XMTg5Mzg5Nzg5Mg==" frameborder="0" allowfullscreen></iframe>
 
