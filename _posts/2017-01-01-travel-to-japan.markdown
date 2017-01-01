@@ -7,7 +7,7 @@ categories: japan
 
 # 15天的旅行记录
 
-<iframe width="100%" height="500" src="http://player.youku.com/embed/XMTg5Mzg5Nzg5Mg==" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="//player.youku.com/embed/XMTg5Mzg5Nzg5Mg==" frameborder="0" allowfullscreen></iframe>
 
 # 准备部分
 
