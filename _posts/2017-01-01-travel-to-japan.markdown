@@ -79,10 +79,6 @@ categories: japan
 - 横滨站
 - 中华街（中国人开的各种店）
 
-# 旅行记录
-
-<iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
-
 # 一些感受
 
 ### 环境
@@ -138,3 +134,11 @@ categories: japan
 ### 卫浴
 
 日本的浴室干湿分离做的不错，很多房子甚至把马桶和浴室是分两间设计的。另外浴室的抽风机效果都不错，很多抽风机都带有干燥功能，让浴室快速干燥。
+
+# 旅行记录
+
+<iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
+
+# 最后放几张图
+
+见另一个[文章]({{ site.url }/japan/2017/01/01/photos-in-japan.html)
