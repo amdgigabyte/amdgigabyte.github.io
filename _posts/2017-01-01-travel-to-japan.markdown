@@ -5,6 +5,10 @@ date:   2017-01-01 11:55:48 +0800
 categories: japan
 ---
 
+# 旅行记录
+
+<iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
+
 # 准备部分
 
 - 机票（ANA官网提前预定，2个人订到了2900的往返机票，感觉挺划算的，只是回程转机略折腾）
@@ -134,7 +138,3 @@ categories: japan
 ### 卫浴
 
 日本的浴室干湿分离做的不错，很多房子甚至把马桶和浴室是分两间设计的。另外浴室的抽风机效果都不错，很多抽风机都带有干燥功能，让浴室快速干燥。
-
-# 旅行记录
-
-<iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
