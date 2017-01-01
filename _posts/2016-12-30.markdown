@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to my new home!"
+date:   2016-12-20 20:00:48 +0800
+categories: start
+---
+好久没有写blog了，今年要开始记一些东西了~
