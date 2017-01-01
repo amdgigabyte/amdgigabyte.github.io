@@ -78,13 +78,14 @@ categories: japan
 
 # 旅行记录
 
-<embed src='http://player.youku.com/player.php/sid/XMTg5Mzg5Nzg5Mg==/v.swf' allowFullScreen='true' quality='high' width='100%' height="500" align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
-
+<iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
 
 # 感受
 
-to be continue!
+### 环境
 
-<!-- !! 作为中国边上的邻国，以前曾经犯下过侵华罪行、现在现代化程度很高的日本，很想去看看究竟是怎么样的一个过节，日本国内的生活又是怎么样的？ -->
+### 交通
 
-<!-- !! 到达大阪的第一感觉就是干净 -->
+### 人
+
+### 饮食
