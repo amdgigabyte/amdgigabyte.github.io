@@ -15,7 +15,7 @@ markdown: kramdown
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: amdgigabyte
+disqus-shortname: amdgigabyte-github-io
 
 #optimization
 #compress.html
