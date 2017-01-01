@@ -138,7 +138,3 @@ categories: japan
 # 旅行记录
 
 <iframe width="100%" height="500" src="https://player.youku.com/embed/XMTg5Mzg5Nzg5Mg" frameborder="0" allowfullscreen></iframe>
-
-# 最后放几张图
-
-见另一个[文章]({{ site.url }}/japan/2017/01/01/photos-in-japan.html)
