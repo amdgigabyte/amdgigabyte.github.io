@@ -6,4 +6,4 @@ categories: start
 comments: false
 ---
 
-好久没有写blog了，今年要开始记一些东西了~
+好久没有写blog了，今后要开始记一些东西了~
