@@ -24,19 +24,19 @@ date: 2019-04-01 14:00:00 +0800
 
 试驾时拍了几张照片。
 
-<img src="/assets/posts/tesla-0.jpg" alt="别人定的白色版本" width="70%"/>
+<img src="/assets/posts/tesla-0.jpg" alt="别人定的白色版本" width="100%"/>
 
 别人定的白色版本
 
-<img src="/assets/posts/tesla-1.jpg" alt="前备箱" width="70%"/>
+<img src="/assets/posts/tesla-1.jpg" alt="前备箱" width="100%"/>
 
 前备箱
 
-<img src="/assets/posts/tesla-2.jpg" alt="坐副驾跃跃欲试" width="70%"/>
+<img src="/assets/posts/tesla-2.jpg" alt="坐副驾跃跃欲试" width="100%"/>
 
 坐副驾跃跃欲试
 
-<img src="/assets/posts/tesla-3.jpg" alt="主驾位" width="70%"/>
+<img src="/assets/posts/tesla-3.jpg" alt="主驾位" width="100%"/>
 
 主驾位
 
