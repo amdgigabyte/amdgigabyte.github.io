@@ -22,7 +22,23 @@ date: 2019-04-01 14:00:00 +0800
 
 试驾员会先开一段路，然后停在路边，接下来就是我自己上手了，刚刚开始还是有点紧张的。
 
-试驾时拍了几张[照片](https://photos.app.goo.gl/D2XYTyjp1ApEdDYP6)
+试驾时拍了几张照片。
+
+<img src="/assets/posts/tesla-0.jpg" alt="别人定的白色版本" width="70%"/>
+
+别人定的白色版本
+
+<img src="/assets/posts/tesla-1.jpg" alt="前备箱" width="70%"/>
+
+前备箱
+
+<img src="/assets/posts/tesla-2.jpg" alt="坐副驾跃跃欲试" width="70%"/>
+
+坐副驾跃跃欲试
+
+<img src="/assets/posts/tesla-3.jpg" alt="主驾位" width="70%"/>
+
+主驾位
 
 然后说说体验吧。
 
