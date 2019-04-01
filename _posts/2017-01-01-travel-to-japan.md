@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016年末15天日本行"
-date: '2017-01-01'
+date: 2017-01-01 10:00:00 +0800
 comments: true
 categories: japan
 ---
