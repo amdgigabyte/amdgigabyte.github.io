@@ -10,7 +10,7 @@ date: 2019-04-01 14:00:00 +0800
 
 试驾地点: 杭州城西银泰一楼
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.1965560219584!2d120.10840289398709!3d30.30014691065674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2ec243dc9028f4c7!2z6ZO25rOw5Z-O!5e0!3m2!1szh-CN!2sjp!4v1554098016976!5m2!1szh-CN!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.1965560219584!2d120.10840289398709!3d30.30014691065674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2ec243dc9028f4c7!2z6ZO25rOw5Z-O!5e0!3m2!1szh-CN!2sjp!4v1554098016976!5m2!1szh-CN!2sjp" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 带上驾照，到达银泰一楼特斯拉店内，与店主核对了一下预约，签了一份简短的试驾协议（主要说一下出了问题责任谁承担）。然后便前往车库了。特斯拉试驾车停在了地下车库，那边正好还有一个超充站。
 
