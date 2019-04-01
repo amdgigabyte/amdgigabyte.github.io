@@ -1,41 +1,42 @@
----
-layout: compress
----
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="theme-color" content="#426d94">
-  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link href="https://fonts.googleapis.com/css?family=Lato:900|Work+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
-  {% seo %}
-</head>
-<body style="background-color: rgb(255, 255, 255)">
- <script src="{{site.baseurl}}/js/theme.min.js"></script>
-  <header>
-      <a href="{{site.baseurl}}/"><div class="home"></div></a>
-  </header>
+{% include head.html %}
 
-  {{ content }}
-
-<footer>
-
-    <div class="links">
-        <a href="{{site.baseurl}}/about/">About</a>
-        <a href="{{site.baseurl}}/contact/">Contact</a>
+<body>
+  <div id="wrapper">
+    {% include header.html %}
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
     </div>
-    <div class="theme" onclick="theme()" style="    background-image: url({{site.baseurl}}/images/theme.svg)"></div>
-</footer>
-{% include analytics.html %}
-{% include pwa.html %}
-</script>
+  </div>
 
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page == 1 %}
+    <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+    {% elsif paginator.previous_page%}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+    {% else %}
+    <span class="page-item">&laquo;</span>
+    {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
+    <span class="page-item">{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
+    {% endif %} {% endfor %} {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
+    {% else %}
+    <span class="page-item">&raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %} {% include footer.html %}
+
+  {% if site.google_analytics %}
+    {% include analytics.html %}
+  {% endif %}
 </body>
+
 </html>

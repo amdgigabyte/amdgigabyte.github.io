@@ -1,40 +1,32 @@
-### your site title here
+title: TP1229
+description: "A JayScripter"
+author:
+  name: "amdgigabyte"
+  email: "amdgigabyte@gmail.com"
+  url: "https://amdgigabyte.github.io"
 
-title: tp1229
-baseurl:  # name of the repository
-email: amdgigabyte@gmail.com
+baseurl: ""
 
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
-highlighter: rouge
-markdown: kramdown
-### exclude the instructions / write-up in the README.md
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
 
-
-# Tracker
-analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: tp1229
-
-#optimization
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-
-sass:
- style: compressed
-
-exclude:
-- README.md
-
-
-gems: [jekyll-seo-tag, jekyll-paginate]
+# Custom variables
+owner : "amdgigabyte"
+year : "2019"
