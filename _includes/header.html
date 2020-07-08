@@ -7,15 +7,17 @@
     <div class="header-links">
       {% include links.html %}
     </div>
-    <script>
-        var jump = function() {
-          alert(1);
-          location.href = "https://b.mashort.cn/ulk/taobao";
-        }
-    </script>
+    
     <div><a href="https://oia.zhihu.com">点我（zhihu）</a></div>
     <div><a href="https://b.mashort.cn/ulk/taobao">点我（ULK）</a></div>
-    <div onclick="jump">点击我</div>
+    <div id="me">点击我</div>
     <div><a href="https://detail.m.tmall.com/item.htm?id=619330087727&ali_trackid=2:mm_1107000065_1782150072_110489050081,2a0:1592832386_137_749852965&spm=a311n.14543358.24829614.18&unid=2a0&pvid=100_11.229.189.178_13439_6181592831170998488&scm=null&e=i8U-TaVSGxpaTbxo_mmiOL5YljqJeRB9FFa4KFLNlrLjTMl25pFt3KcMJMUchQZbQYBRQ3XI9oPWyctxICU94C_IAR7ok-npvHMTf5XZYXULCjXhgYfLMxMXqLiMndsoNBUWD-FOdYnxYU4HCRZsDAx3nzmWpxs-ZsqkcASobixl0CC84stDUfUW1ZOzImv9YnG8x5weAtD0Q2inDtlfa7J5_MuNS4iy4O6UJHXGFjTgM5_Ulgh9hXJZZ7hifUrMHYlx7-UCAawcIwQJWIO9B17rTVI_wWZCII8ho4-2s2CbdYhP1iTUeoepGti2s3Rz9n1HX6nOgMIQD2TCHN2-om8_bc7RYO1JDHC8J_1COLHjvwLaC0EnSKeJoDyQyledo--3oPksk6YtwdmaYzj4cxXYzXzGxpYJkbQQGH7u8naIZHT1Ni4e-yekS_Erq0hs3ZtSCdq1xmEb_Bs0NxPWSfRWiySCeMbnPL1U67KW_0I3p_QyRZGeOmkukDx7EJk4A4Tw3bE_LOFHXZThLyYMjaIDjmGJ9lYWJQBZvdmAevOVXkiPn1lR8vGUfr_5m6LRcQkYP6z7G13LwIQNJzRST8RfObtl87ky&type=2&tk_cps_param=1107000065&tkFlag=0&tk_cps_ut=2">点我哦（商品）</a></div>
   </div>
+  <script>
+    var node = document.getELementById('me');
+    node.addEventListener('click', function() {
+          alert(1);
+          location.href = "https://b.mashort.cn/ulk/taobao";
+        });
+    </script>
 </header>
